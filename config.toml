@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "gil.fyi"
+theme = "hugo-classic"
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[[menu.main]]
+    name = "cv"
+    url = "/cv"
+    weight = 1
+
+[params]
+    footer = "[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky)"
+    custom_css = ["css/theme-override.css"]
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "manni"
+    tabWidth = 2

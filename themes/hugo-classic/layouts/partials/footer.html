@@ -1,0 +1,12 @@
+    <footer>
+      {{ partial "foot_custom.html" . }}
+      {{ with .Site.Params.footer }}
+      <hr/>
+      {{ . | markdownify }}
+      {{ end }}
+    </footer>
+    {{ if and .Site.Params.fathomAnalytics .Site.Params.fathomAnalytics.siteID }}
+      {{- partial "analytics/fathom" . -}}
+    {{ end }}
+  </body>
+</html>
