@@ -1,5 +1,5 @@
 #!/bin/bash
-hugo # build the site and places into /public
+hugo --cleanDestinationDir # build the site and places into /public
 gsutil -m rsync -r -d public/ gs://www.gil.fyi # syncs to GCS
 gsutil iam ch allUsers:objectViewer gs://www.gil.fyi # makes all GCS objctes public
 # set no caching:
