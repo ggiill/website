@@ -6,8 +6,8 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 
 [[menu.main]]
-    name = "cv"
-    url = "/cv"
+    name = "professional stuff"
+    url = "/professional_stuff"
     weight = 1
 
 [[menu.main]]

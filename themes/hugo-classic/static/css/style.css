@@ -3,18 +3,8 @@ body {
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
-  background-color: ghostwhite;
+  background-color: whitesmoke;
 }
-
-/* Table of Contents, if wanted
-
-Add to yaml:
-
-output:
-  blogdown::html_page:
-    toc: true
-
-    */
 
 #TableOfContents, #TOC {
   border: 1px solid #eee;
@@ -25,7 +15,7 @@ output:
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: mistyrose;
+  background: seashell;
   color: #000;
   padding: 5px;
   border-radius: 5px;
@@ -34,9 +24,14 @@ output:
   margin-bottom: 20px;
 }
 
-.terms { font-size: .9em; }
+.terms {
+  font-size: .9em;
+  
+}
 .menu, .article-meta, footer { text-align: center; }
-.title { font-size: 1.1em; }
+.title {
+  font-size: 1.1em;
+}
 footer a { text-decoration: none; }
 
 .pull-left {
@@ -89,7 +84,6 @@ header .current a {
 /* Code Boxes */
 pre {
   border: 1px solid #ddd;
-  box-shadow: 5px 5px 5px #eee;
   background: #f8f8f8;
   padding: 1em;
   overflow-x: auto;
@@ -99,8 +93,11 @@ pre code { background: none; }
 
 /* Images, tables, misc. */
 img, iframe, video {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
+  display: block;
+  float: right;
+  padding: 0px 0px 0px 20px;
 }
 main {
   hyphens: auto;
@@ -132,11 +129,4 @@ tr:nth-child(even) { background: #eee }
 
 .content-wrapper {
   padding: 0px 12px 0px 12px;
-}
-
-#main-image {
-  min-width: 40px;
-  float: right;
-  padding: 10px;
-  display: block;
 }
