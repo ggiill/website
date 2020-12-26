@@ -1,9 +1,10 @@
-baseURL = "/"
+baseURL = "https://gil.fyi/"
 languageCode = "en-us"
 title = "gil.fyi"
 theme = "hugo-classic"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
+relativeURLs = true
 
 [[menu.main]]
     name = "professional stuff"
