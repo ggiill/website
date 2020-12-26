@@ -5,4 +5,7 @@ gsutil iam ch allUsers:objectViewer gs://www.gil.fyi # makes all GCS objctes pub
 # set no caching:
 gsutil -m setmeta -r -h "Content-Type:text/html" \
   -h "Cache-Control:no-cache, max-age=0" \
-  gs://www.gil.fyi
+  gs://www.gil.fyi/**.html
+gsutil -m setmeta -r -h "Content-Type:text/css" \
+  -h "Cache-Control:no-cache, max-age=0" \
+  gs://www.gil.fyi/**.css
