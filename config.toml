@@ -10,8 +10,13 @@ footnotereturnlinkcontents = "↩"
     url = "/cv"
     weight = 1
 
+[[menu.main]]
+    name = "readings"
+    url = "/readings"
+    weight = 2
+
 [params]
-    footer = "[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky)"
+    footer = "[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky)"
     custom_css = ["css/theme-override.css"]
 
 [markup]
@@ -26,4 +31,4 @@ footnotereturnlinkcontents = "↩"
     lineNumbersInTable = true
     noClasses = true
     style = "manni"
-    tabWidth = 2
+    tabWidth = 4
