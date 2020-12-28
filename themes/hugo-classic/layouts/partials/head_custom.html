@@ -8,8 +8,8 @@
         <a href="{{ .Site.BaseURL }}">~/{{ lower .Site.Title}}</a>
       </li>
       {{ range .Site.Menus.main }}
-      {{ $name := lower .Name }}
-      <li class="pull-left {{ if in $title $name}}current{{ else if eq $section $name }}current{{ else if eq $title (pluralize $name) }}current{{ end }}">
+      {{ $name := lower .URL | replaceRE "/" "" }}
+      <li class="pull-left {{ if in $name $title }}current{{ else if in $title $name }}current{{ else if eq $section $name }}current{{ else if eq $name $section }}current{{ else if eq $title (pluralize $name) }}current{{ end }}">
         <a href="{{ .URL }}">~/{{ lower .Name }}</a>
       </li>
       {{end}}
