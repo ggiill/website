@@ -6,9 +6,12 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 relativeURLs = true
 
+[permalinks]
+    post = "/posts/:year/:month/:day/:slug/"
+
 [[menu.main]]
-    name = "professional stuff"
-    url = "/professional_stuff"
+    name = "professional"
+    url = "/professional"
     weight = 1
 
 [[menu.main]]
@@ -16,8 +19,17 @@ relativeURLs = true
     url = "/readings"
     weight = 2
 
+[[menu.main]]
+    name = "posts"
+    url = "/posts"
+    weight = 3
+
+[[menu.feed]]
+    name = "rss"
+    url = "/index.xml"
+
 [params]
-    footer = "this static site is built using [hugo](https://gohugo.io), is deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website), and its source code can be found [here](https://github.com/gturetsky/website)\n\n[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky)"
+    footer = "this static site is built using [hugo](https://gohugo.io), is deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website), and its source code can be found [here](https://github.com/gturetsky/website)\n\n🔗 [github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky) 🔗"
     custom_css = ["css/theme-override.css"]
 
 [markup]
@@ -33,3 +45,5 @@ relativeURLs = true
         noClasses = true
         style = "manni"
         tabWidth = 4
+    [markup.goldmark.renderer]
+        unsafe = true

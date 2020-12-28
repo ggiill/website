@@ -43,7 +43,7 @@ footer a { text-decoration: none; }
 }
 
 a {
-  color: #808080;
+  color: cadetblue;
   text-decoration: none;
 }
 
@@ -73,13 +73,13 @@ header nav {
 }
 
 header a {
-    color: #fff;
+    color: whitesmoke;
     line-height: 1.75rem;
     padding: 0 0.5rem
 }
 header a:hover,
 header .current a {
-    color: #fff
+    color: black
 }
 
 /* Code Boxes */
@@ -94,11 +94,8 @@ pre code { background: none; }
 
 /* Images, tables, misc. */
 img, iframe, video {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
-  display: block;
-  float: right;
-  padding: 0px 0px 0px 20px;
 }
 main {
   hyphens: auto;

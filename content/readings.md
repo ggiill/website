@@ -6,11 +6,15 @@ title: "readings"
 
 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gang of Four
 
+---
+
 ### up next
 
 *Domain-Driven Design: Tackling Complexity in the Heart of Software* by Eric Evans
 
 *Working in Public: The Making and Maintenance of Open Source Software* by Nadia Eghbal
+
+---
 
 ### programming
 

@@ -3,8 +3,5 @@
       <hr/>
       {{ .Site.Params.footer | site.Home.RenderString }}
     </footer>
-    {{ if and .Site.Params.fathomAnalytics .Site.Params.fathomAnalytics.siteID }}
-      {{- partial "analytics/fathom" . -}}
-    {{ end }}
   </body>
 </html>
