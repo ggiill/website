@@ -10,17 +10,17 @@ relativeURLs = true
     post = "/posts/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "professional"
+    name = "💼"
     url = "/professional"
     weight = 1
 
 [[menu.main]]
-    name = "readings"
+    name = "📚"
     url = "/readings"
     weight = 2
 
 [[menu.main]]
-    name = "posts"
+    name = "✍️"
     url = "/posts"
     weight = 3
 
