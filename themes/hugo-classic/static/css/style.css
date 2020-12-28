@@ -8,7 +8,7 @@ body {
 }
 
 #TableOfContents, #TOC {
-  border: 1px solid #eee;
+  border: 1px solid gainsboro;
   border-radius: 5px;
 }
 
@@ -17,7 +17,7 @@ body {
 .article-meta, .menu a {
   text-decoration: none;
   background: seashell;
-  color: #000;
+  color: blacks;
   padding: 5px;
   border-radius: 5px;
   border-style: solid;
@@ -29,11 +29,15 @@ body {
   font-size: .9em;
   
 }
-.menu, .article-meta, footer { text-align: center; }
+.menu, .article-meta, footer {
+  text-align: center;
+}
 .title {
   font-size: 1.1em;
 }
-footer a { text-decoration: none; }
+footer a {
+  text-decoration: none;
+}
 
 .pull-left {
     float: left
@@ -58,7 +62,7 @@ header {
     height: 1.75rem;
     font-size: 1rem;
     background: cadetblue;
-    border: 1px solid #000;
+    border: 1px solid black;
     border-radius: 2px;
 }
 
@@ -84,13 +88,13 @@ header .current a {
 
 /* Code Boxes */
 pre {
-  border: 1px solid #ddd;
-  background: #f8f8f8;
+  border: 1px solid lightgrey;
   padding: 1em;
   overflow-x: auto;
 }
-code { background: #f9f9f9; }
-pre code { background: none; }
+pre code {
+  background: none;
+}
 
 /* Images, tables, misc. */
 img, iframe, video {
@@ -105,25 +109,31 @@ main {
   line-height: 1.7em;
   hyphens: auto;
   display: block;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 main a {
   font-weight: bold;
 }
 blockquote {
-  background: #f9f9f9;
-  border-left: 5px solid #ccc;
+  background: mintcream;
+  border-left: 5px solid lightgrey;
   padding: 3px 1em 3px;
 }
 
 table {
   margin: auto;
-  border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
+  border-top: 1px solid dimgray;
+  border-bottom: 1px solid dimgray;
 }
-table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
-tr:nth-child(even) { background: #eee }
+table thead th {
+  border-bottom: 1px solid lightgrey;
+}
+th, td {
+  padding: 5px;
+}
+tr:nth-child(even) {
+  background: gainsboro
+}
 
 .content-wrapper {
   padding: 0px 12px 0px 12px;
