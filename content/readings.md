@@ -18,31 +18,31 @@ title: "readings"
 
 *Fluent Python* by Luciano Ramalho
 
-### weird fiction / sci-fi / horror
+### jeff vandermeer
 
-*Annihilation* by Jeff Vandermeer
+*Southern Reach Trilogy* (*Annihilation*, *Authority*, & *Acceptance*)
 
-*Authority* by Jeff Vandermeer
+*Borne*
 
-*Acceptance* by Jeff Vandermeer
+*The Strange Bird*
 
-*Borne* by Jeff Vandermeer
+*Dead Astronauts*
 
-*The Strange Bird* by Jeff Vandermeer
-
-*Dead Astronauts* by Jeff Vandermeer
-
-*Songs of a Dead Dreamer and Grimscribe* by Thomas Ligotti
-
-*Ubik* by Philip K Dick
-
-### fiction
+### fiction / weird fiction / horror
 
 *Lolita* by Vladimir Nabokov
 
 *Pale Fire* by Vladimir Nabokov
 
 *Masters of Atlantis* by Charles Portis
+
+*Amatka* by Karin Tidbeck
+
+*Jagannath* by Karin Tidbeck
+
+*Songs of a Dead Dreamer and Grimscribe* by Thomas Ligotti
+
+*Ubik* by Philip K Dick
 
 ### non-fiction
 
@@ -51,3 +51,9 @@ title: "readings"
 *Hunger Makes Me a Modern Girl* by Carrie Brownstein
 
 *Code* by Charles Petzold
+
+### graphic novels / comics
+
+*Watchmen* by Alan Moore, Dave Gibbons, & John Higgins
+
+*Planetary* by Warren Ellis & John Cassaday

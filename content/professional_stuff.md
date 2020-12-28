@@ -4,12 +4,12 @@ title: "professional stuff"
 
 ### recent work history
 
-* **Octane11** | 11/2019-present
+* **Octane11** -- *2019-11 to present*
     * Sr Software Engineer
-* **Juul Labs** | 10/2018-10/2019
+* **Juul Labs** -- *2018-10 to 2019-10*
     * Sr Data Engineer
     * Data Engineer
-* **MediaMath** | 2/2017-9/2018
+* **MediaMath** -- *2017-01 to 2018-09*
     * Sr Data Analyst
     * Data Analyst
 
@@ -33,9 +33,9 @@ title: "professional stuff"
 
 ### older work history
 
-* **MediaMath** | 2/2016-2/2017
+* **MediaMath** -- *2016-02 to 2017-02*
     * Reporting Analyst
     * Engagement Associate
     * Marketing Engineer
-* **Bed Bath & Beyond** | 10/2012-1/2016
+* **Bed Bath & Beyond** -- *2012-10 to 2016-01*
     * Product Safety Coordinator

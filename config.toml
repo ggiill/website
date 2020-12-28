@@ -17,19 +17,19 @@ relativeURLs = true
     weight = 2
 
 [params]
-    footer = "[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky)"
+    footer = "this static site is built using [hugo](https://gohugo.io), is deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website), and its source code can be found [here](https://github.com/gturetsky/website)\n\n[github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky)"
     custom_css = ["css/theme-override.css"]
 
 [markup]
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineAnchors = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "manni"
-    tabWidth = 4
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = false
+        lineNumbersInTable = true
+        noClasses = true
+        style = "manni"
+        tabWidth = 4
