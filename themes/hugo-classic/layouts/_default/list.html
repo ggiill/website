@@ -18,4 +18,8 @@
      {{ end }}
    </ul>
 </div>
+{{ if not .IsHome }}
+<hr>
+<a href="/">🏠 home 🏠</a>
+{{ end }}
 {{ partial "footer.html" . }}
