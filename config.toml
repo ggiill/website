@@ -29,7 +29,9 @@ relativeURLs = true
     url = "/index.xml"
 
 [params]
-    footer = "this static site is built using [hugo](https://gohugo.io), is deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website), and its source code can be found [here](https://github.com/gturetsky/website)\n\n🔗 [github](https://github.com/gturetsky)  |  [linkedin](https://www.linkedin.com/in/gilturetsky/)  |  [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky) | [email](mailto:public@gil.fyi) 🔗"
+    footer = """\
+    built using [hugo](https://gohugo.io) | deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website) | source code [here](https://github.com/gturetsky/website)\n\n\
+    🔗 [github](https://github.com/gturetsky) | [linkedin](https://www.linkedin.com/in/gilturetsky/) | [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky) | [email](mailto:public@gil.fyi) 🔗"""
     custom_css = ["css/theme-override.css"]
 
 [markup]
