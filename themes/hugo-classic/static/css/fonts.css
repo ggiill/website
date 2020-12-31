@@ -26,3 +26,9 @@ code {
     "Segoe UI Symbol";
     font-size: 85%;
 }
+
+date {
+  font-family:
+    'Inconsolata',
+    monospace;   
+}

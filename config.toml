@@ -24,6 +24,16 @@ relativeURLs = true
     url = "/posts"
     weight = 3
 
+[[menu.main]]
+    name = "🗄️"
+    url = "/categories/"
+    weight = 4
+
+[[menu.main]]
+    name = "🏷️"
+    url = "/tags/"
+    weight = 5
+
 [[menu.feed]]
     name = "rss"
     url = "/index.xml"

@@ -6,6 +6,8 @@ title: "readings"
 
 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gang of Four
 
+*Building Event-Driven Microservices* by Adam Bellemare
+
 ---
 
 ### up next

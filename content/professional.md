@@ -4,12 +4,12 @@ title: "professional stuff"
 
 ### recent work history
 
-* Octane11 | *<small>2019-11 to present</small>*
+* Octane11 | <date>2019-11 to present</date>
     * Sr Software Engineer
-* Juul Labs | *<small>2018-10 to 2019-10</small>*
+* Juul Labs | <date>2018-10 to 2019-10</date>
     * Sr Data Engineer
     * Data Engineer
-* MediaMath | *<small>2017-01 to 2018-09</small>*
+* MediaMath | <date>2017-01 to 2018-09</date>
     * Sr Data Analyst
     * Data Analyst
 
@@ -21,8 +21,8 @@ title: "professional stuff"
 
 ### technologies
 
-* Google Cloud Platform *<small>(GCP)</small>*
-* Amazon Web Services *<small>(AWS)</small>*
+* Google Cloud Platform <small>*(GCP)*</small>
+* Amazon Web Services <small>*(AWS)*</small>
 * Docker
 * Kubernetes
 * BigQuery
@@ -35,9 +35,9 @@ title: "professional stuff"
 
 ### older work history
 
-* MediaMath | *<small>2016-02 to 2017-02</small>*
+* MediaMath | <date>2016-02 to 2017-02</date>
     * Reporting Analyst
     * Engagement Associate
     * Marketing Engineer
-* Bed Bath & Beyond | *<small>2012-10 to 2016-01</small>*
+* Bed Bath & Beyond | <date>2012-10 to 2016-01</date>
     * Product Safety Coordinator
