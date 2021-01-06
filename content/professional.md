@@ -9,7 +9,7 @@ title: "professional stuff"
 * Juul Labs | <date>2018-10 to 2019-10</date>
     * Sr Data Engineer
     * Data Engineer
-* MediaMath | <date>2017-01 to 2018-09</date>
+* MediaMath | <date>2017-02 to 2018-09</date>
     * Sr Data Analyst
     * Data Analyst
 
