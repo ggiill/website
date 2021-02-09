@@ -41,7 +41,7 @@ relativeURLs = true
 [params]
     footer = """\
     built using [hugo](https://gohugo.io) | deployed on [gcp](https://cloud.google.com/storage/docs/hosting-static-website) | source code [here](https://github.com/ggiill/website)\n\n\
-    🔗 [github](https://github.com/ggiill) | [linkedin](https://www.linkedin.com/in/gilturetsky/) | [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/tilguretsky) | [email](mailto:public@gil.fyi) 🔗"""
+    🔗 [github](https://github.com/ggiill) | [linkedin](https://www.linkedin.com/in/gilturetsky/) | [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/_ggiill_) | [email](mailto:public@gil.fyi) 🔗"""
     custom_css = ["css/theme-override.css"]
 
 [markup]
