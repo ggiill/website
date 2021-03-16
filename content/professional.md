@@ -4,7 +4,10 @@ title: "professional stuff"
 
 ### recent work history
 
+* Ramp | <date>2021-02 to present</date>
+    * Sr Software Engineer
 * Octane11 | <date>2019-11 to present</date>
+    * Advisor
     * Sr Software Engineer
 * Juul Labs | <date>2018-10 to 2019-10</date>
     * Sr Data Engineer
