@@ -1,14 +1,6 @@
 #!/bin/bash
 echo "**BUILDING SITE**"
 hugo --cleanDestinationDir # build the site and places into /public
-echo "**SYNCING TO GCS**"
-gsutil -m rsync -r -d -x ".*\.DS_Store$" public/ gs://www.gil.fyi # syncs to GCS
-gsutil iam ch allUsers:objectViewer gs://www.gil.fyi # makes all GCS objctes public
-# set no caching:
-gsutil -m setmeta -r -h "Content-Type:text/html" \
-  -h "Cache-Control:no-cache, max-age=0" \
-  gs://www.gil.fyi/**.html
-gsutil -m setmeta -r -h "Content-Type:text/css" \
-  -h "Cache-Control:no-cache, max-age=0" \
-  gs://www.gil.fyi/**.css
+echo "**DEPLOYING ON FIREBASE**"
+firebase deploy
 echo "**DONE**"

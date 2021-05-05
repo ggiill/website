@@ -2,3 +2,8 @@
 public
 resources
 data
+
+# Firebase stuff
+.firebaserc
+firebase-debug.log
+.firebase/
