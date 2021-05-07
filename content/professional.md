@@ -21,6 +21,7 @@ title: "professional stuff"
 * Python
 * SQL
 * Go
+* Elixir
 
 ### technologies
 
