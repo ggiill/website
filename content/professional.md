@@ -2,46 +2,46 @@
 title: "professional stuff"
 ---
 
-### recent work history
+### recent
 
-* Ramp | <date>2021-02 to present</date>
-    * Sr Software Engineer
-* Octane11 | <date>2019-11 to present</date>
-    * Advisor
-    * Sr Software Engineer
-* Juul Labs | <date>2018-10 to 2019-10</date>
-    * Sr Data Engineer
-    * Data Engineer
-* MediaMath | <date>2017-02 to 2018-09</date>
-    * Sr Data Analyst
-    * Data Analyst
+* ramp | <date>2021-02 to present</date>
+    * sr software engineer
+* octane11 | <date>2019-11 to present</date>
+    * advisor
+    * sr software engineer
+* juul labs | <date>2018-10 to 2019-10</date>
+    * sr data engineer
+    * data engineer
+* mediamath | <date>2017-02 to 2018-09</date>
+    * sr data analyst
+    * data analyst
 
 ### languages
 
-* Python
-* SQL
-* Go
-* Elixir
+* python
+* sql
+* go
+* elixir
 
 ### technologies
 
-* Google Cloud Platform <small>*(GCP)*</small>
-* Amazon Web Services <small>*(AWS)*</small>
-* Docker
-* Kubernetes
-* BigQuery
-* PostgreSQL
+* google cloud platform <small>*(gcp)*</small>
+* amazon web services <small>*(aws)*</small>
+* docker
+* kubernetes
+* bigquery
+* postgresql
 * dbt
-* Hashicorp Terraform
-* Hashicorp Vault
+* hashicorp terraform
+* hashicorp vault
 
 ---
 
-### older work history
+### older
 
-* MediaMath | <date>2016-02 to 2017-02</date>
-    * Reporting Analyst
-    * Engagement Associate
-    * Marketing Engineer
-* Bed Bath & Beyond | <date>2012-10 to 2016-01</date>
-    * Product Safety Coordinator
+* mediamath | <date>2016-02 to 2017-02</date>
+    * reporting analyst
+    * engagement associate
+    * marketing engineer
+* bed bath & beyond | <date>2012-10 to 2016-01</date>
+    * product safety coordinator

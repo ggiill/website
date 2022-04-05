@@ -4,62 +4,60 @@ title: "readings"
 
 ### currently reading
 
-*Design Patterns: Elements of Reusable Object-Oriented Software* by Gang of Four
-
-*Building Event-Driven Microservices* by Adam Bellemare
+nothing :'(
 
 ---
 
 ### up next
 
-*Domain-Driven Design: Tackling Complexity in the Heart of Software* by Eric Evans
+*working in public: the making and maintenance of open source software* by nadia eghbal
 
-*Working in Public: The Making and Maintenance of Open Source Software* by Nadia Eghbal
+*hummingbird salamander* by jeff vandermeer
 
 ---
 
 ### programming
 
-*The Go Programming Language* by Alan A. A. Donovan & Brian Kernighan
+*the go programming language* by alan a. a. donovan & brian kernighan
 
-*Fluent Python* by Luciano Ramalho
+*fluent python* by luciano ramalho
 
 ### jeff vandermeer
 
-*Southern Reach Trilogy* (*Annihilation*, *Authority*, & *Acceptance*)
+*southern reach trilogy* (*annihilation*, *authority*, & *acceptance*)
 
-*Borne*
+*borne*
 
-*The Strange Bird*
+*the strange bird*
 
-*Dead Astronauts*
+*dead astronauts*
 
 ### fiction / weird fiction / horror
 
-*Lolita* by Vladimir Nabokov
+*lolita* by vladimir nabokov
 
-*Pale Fire* by Vladimir Nabokov
+*pale fire* by vladimir nabokov
 
-*Masters of Atlantis* by Charles Portis
+*masters of atlantis* by charles portis
 
-*Amatka* by Karin Tidbeck
+*amatka* by karin tidbeck
 
-*Jagannath* by Karin Tidbeck
+*jagannath* by karin tidbeck
 
-*Songs of a Dead Dreamer and Grimscribe* by Thomas Ligotti
+*songs of a dead dreamer and grimscribe* by thomas ligotti
 
-*Ubik* by Philip K Dick
+*ubik* by philip k dick
 
 ### non-fiction
 
-*The War on Normal People* by Andrew Yang
+*the war on normal people* by andrew yang
 
-*Hunger Makes Me a Modern Girl* by Carrie Brownstein
+*hunger makes me a modern girl* by carrie brownstein
 
-*Code* by Charles Petzold
+*code* by charles petzold
 
 ### graphic novels / comics
 
-*Watchmen* by Alan Moore, Dave Gibbons, & John Higgins
+*watchmen* by alan moore, dave gibbons, & john higgins
 
-*Planetary* by Warren Ellis & John Cassaday
+*planetary* by warren ellis & john cassaday
