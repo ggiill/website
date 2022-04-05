@@ -6,56 +6,40 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 relativeURLs = true
 
-[permalinks]
-    post = "/posts/:year/:month/:day/:slug/"
+[[menu.main]]
+name = "💼"
+url = "/professional"
+weight = 1
 
 [[menu.main]]
-    name = "💼"
-    url = "/professional"
-    weight = 1
-
-[[menu.main]]
-    name = "📚"
-    url = "/readings"
-    weight = 2
-
-[[menu.main]]
-    name = "✍️"
-    url = "/posts"
-    weight = 3
-
-[[menu.main]]
-    name = "🗄️"
-    url = "/categories/"
-    weight = 4
-
-[[menu.main]]
-    name = "🏷️"
-    url = "/tags/"
-    weight = 5
+name = "📚"
+url = "/readings"
+weight = 2
 
 [[menu.feed]]
-    name = "rss"
-    url = "/index.xml"
+name = "rss"
+url = "/index.xml"
 
 [params]
-    footer = """\
+footer = """\
     built using [hugo](https://gohugo.io) | deployed on [firebase](https://firebase.google.com/docs/hosting) | source code [here](https://github.com/ggiill/website)\n\n\
-    🔗 [github](https://github.com/ggiill) | [linkedin](https://www.linkedin.com/in/gilturetsky/) | [keybase](https://keybase.io/gturetsky) | [twitter](https://twitter.com/gil_fyi) | [email](mailto:public@gil.fyi) 🔗"""
-    custom_css = ["css/theme-override.css"]
+    🔗 [github](https://github.com/ggiill) | [twitter](https://twitter.com/gil_fyi) | [linkedin](https://www.linkedin.com/in/ggiill/) | [email](mailto:public@gil.fyi) 🔗"""
+custom_css = ["css/theme-override.css"]
 
 [markup]
-    [markup.highlight]
-        anchorLineNos = false
-        codeFences = true
-        guessSyntax = false
-        hl_Lines = ""
-        lineAnchors = ""
-        lineNoStart = 1
-        lineNos = false
-        lineNumbersInTable = true
-        noClasses = true
-        style = "manni"
-        tabWidth = 4
-    [markup.goldmark.renderer]
-        unsafe = true
+
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "manni"
+tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -10,7 +10,7 @@ _the incal_ by alejandro jodorowsky & jean giraud
 
 _metaprogramming elixir_ by chris mccord
 
-_designing elixir systems with otp_ by james edward gray, ii and bruce a. tate
+_designing elixir systems with otp_ by james edward gray, ii & bruce a. tate
 
 ---
 
