@@ -4,60 +4,70 @@ title: "readings"
 
 ### currently reading
 
-nothing :'(
+_devil house_ by john darnielle
+
+_the incal_ by alejandro jodorowsky & jean giraud
+
+_metaprogramming elixir_ by chris mccord
+
+_designing elixir systems with otp_ by james edward gray, ii and bruce a. tate
 
 ---
 
 ### up next
 
-*working in public: the making and maintenance of open source software* by nadia eghbal
-
-*hummingbird salamander* by jeff vandermeer
+_working in public: the making and maintenance of open source software_ by nadia eghbal
 
 ---
 
 ### programming
 
-*the go programming language* by alan a. a. donovan & brian kernighan
+_programming elixir_ by dave thomas
 
-*fluent python* by luciano ramalho
+_programming phoenix_ by chris mccord, bruce tate and josé valim
+
+_the go programming language_ by alan a. a. donovan & brian kernighan
+
+_fluent python_ by luciano ramalho
 
 ### jeff vandermeer
 
-*southern reach trilogy* (*annihilation*, *authority*, & *acceptance*)
+_southern reach trilogy_ (_annihilation_, _authority_, & _acceptance_)
 
-*borne*
+_borne_
 
-*the strange bird*
+_the strange bird_
 
-*dead astronauts*
+_dead astronauts_
+
+_hummingbird salamander_
 
 ### fiction / weird fiction / horror
 
-*lolita* by vladimir nabokov
+_lolita_ by vladimir nabokov
 
-*pale fire* by vladimir nabokov
+_pale fire_ by vladimir nabokov
 
-*masters of atlantis* by charles portis
+_masters of atlantis_ by charles portis
 
-*amatka* by karin tidbeck
+_amatka_ by karin tidbeck
 
-*jagannath* by karin tidbeck
+_jagannath_ by karin tidbeck
 
-*songs of a dead dreamer and grimscribe* by thomas ligotti
+_songs of a dead dreamer and grimscribe_ by thomas ligotti
 
-*ubik* by philip k dick
+_ubik_ by philip k dick
 
 ### non-fiction
 
-*the war on normal people* by andrew yang
+_the war on normal people_ by andrew yang
 
-*hunger makes me a modern girl* by carrie brownstein
+_hunger makes me a modern girl_ by carrie brownstein
 
-*code* by charles petzold
+_code_ by charles petzold
 
 ### graphic novels / comics
 
-*watchmen* by alan moore, dave gibbons, & john higgins
+_watchmen_ by alan moore, dave gibbons, & john higgins
 
-*planetary* by warren ellis & john cassaday
+_planetary_ by warren ellis & john cassaday
