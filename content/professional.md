@@ -5,6 +5,7 @@ title: "professional stuff"
 ### recent
 
 - ramp | <date>2021-02 to present</date>
+  - staff software engineer
   - sr software engineer
 - octane11 | <date>2019-11 to present</date>
   - advisor
@@ -18,22 +19,25 @@ title: "professional stuff"
 
 ### languages
 
-- elixir
 - python
+- elixir
 - sql
-- go _(a little rusty at this point)_
 
 ### technologies
 
-- google cloud platform <small>_(gcp)_</small>
-- amazon web services <small>_(aws)_</small>
-- docker
-- kubernetes
-- bigquery
 - postgresql
+- docker
+- flask
+- fastapi
+- phoenix
+- snowflake
 - dbt
-- hashicorp terraform
-- hashicorp vault
+- bigquery
+
+### cloud
+
+- amazon web services <small>_(aws)_</small>
+- google cloud platform <small>_(gcp)_</small>
 
 ---
 

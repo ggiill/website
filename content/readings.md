@@ -1,34 +1,12 @@
 ---
-title: "readings"
+title: "selected readings"
 ---
 
 ### currently reading
 
-_devil house_ by john darnielle
-
-_the incal_ by alejandro jodorowsky & jean giraud
-
-_metaprogramming elixir_ by chris mccord
-
-_designing elixir systems with otp_ by james edward gray, ii & bruce a. tate
+_zero to one_ by peter thiel
 
 ---
-
-### up next
-
-_working in public: the making and maintenance of open source software_ by nadia eghbal
-
----
-
-### programming
-
-_programming elixir_ by dave thomas
-
-_programming phoenix_ by chris mccord, bruce tate and josé valim
-
-_the go programming language_ by alan a. a. donovan & brian kernighan
-
-_fluent python_ by luciano ramalho
 
 ### jeff vandermeer
 
@@ -42,7 +20,7 @@ _dead astronauts_
 
 _hummingbird salamander_
 
-### fiction / weird fiction / horror
+### fiction / weird fiction
 
 _lolita_ by vladimir nabokov
 
@@ -66,7 +44,7 @@ _hunger makes me a modern girl_ by carrie brownstein
 
 _code_ by charles petzold
 
-### graphic novels / comics
+### comics / graphic novels
 
 _watchmen_ by alan moore, dave gibbons, & john higgins
 

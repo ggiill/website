@@ -5,6 +5,7 @@ theme = "hugo-classic"
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
 relativeURLs = true
+enableRobotsTXT = true
 
 [[menu.main]]
 name = "💼"
